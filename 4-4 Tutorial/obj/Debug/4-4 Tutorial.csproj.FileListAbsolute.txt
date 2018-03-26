@@ -1,0 +1,10 @@
+D:\C#\Chapter Four Tutorial\4-4 Tutorial\bin\Debug\4-4 Tutorial.exe.config
+D:\C#\Chapter Four Tutorial\4-4 Tutorial\bin\Debug\4-4 Tutorial.exe
+D:\C#\Chapter Four Tutorial\4-4 Tutorial\bin\Debug\4-4 Tutorial.pdb
+D:\C#\Chapter Four Tutorial\4-4 Tutorial\obj\Debug\4-4 Tutorial.csprojResolveAssemblyReference.cache
+D:\C#\Chapter Four Tutorial\4-4 Tutorial\obj\Debug\_4_4_Tutorial.Form1.resources
+D:\C#\Chapter Four Tutorial\4-4 Tutorial\obj\Debug\_4_4_Tutorial.Properties.Resources.resources
+D:\C#\Chapter Four Tutorial\4-4 Tutorial\obj\Debug\4-4 Tutorial.csproj.GenerateResource.Cache
+D:\C#\Chapter Four Tutorial\4-4 Tutorial\obj\Debug\4-4 Tutorial.csproj.CoreCompileInputs.cache
+D:\C#\Chapter Four Tutorial\4-4 Tutorial\obj\Debug\4-4 Tutorial.exe
+D:\C#\Chapter Four Tutorial\4-4 Tutorial\obj\Debug\4-4 Tutorial.pdb
